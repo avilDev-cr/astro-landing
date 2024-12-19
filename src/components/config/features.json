@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Encrypted Passwords",
+        "description": "Your data is safe and secure. We use AES encryption to protect your passwords."
+       
+    },
+    {
+        "title": "Two-Factor Authentication",
+        "description": "Add an extra layer of security to your accounts with two-factor authentication."
+       
+    },
+    {
+        "title": "Secure Login",
+        "description": "We use SSL encryption to secure your login credentials."
+        
+    },
+    {
+        "title": "Secure Storage",
+        "description": "Your data is stored securely on our servers. We use AES encryption to protect your data."
+       
+
+    }
+]
